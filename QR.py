@@ -1,3 +1,4 @@
+!pip install qrcode[pil]
 import streamlit as st
 import qrcode
 from qrcode.image.styledpil import StyledPilImage
