@@ -68,7 +68,7 @@ if st.button("Generate QR Code"):
         st.download_button(
             label="Download QR Code",
             data=qr_img,
-            file_name="styled_qrcode.png",
+            file_name="qrcode.png",
             mime="image/png"
         )
     else:
