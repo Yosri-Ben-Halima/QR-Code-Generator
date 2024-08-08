@@ -16,7 +16,6 @@ To run this project locally, you'll need to have Python installed. Follow these 
 
    ```bash
    git clone https://github.com/Yosri-Ben-Halima/QR-Code-Generator
-   cd qrcode-generator
    ```
 
 2. Create and activate a virtual environment (optional but recommended):
